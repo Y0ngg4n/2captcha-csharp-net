@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>2captcha-csharp</id>
+    <version>0.1.0</version>
+    <title>2captcha-csharp</title>
+    <authors>Author</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>2Captcha</description>
+    <releaseNotes>2 Captcha</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>captcha</tags>
+  </metadata>
+</package>

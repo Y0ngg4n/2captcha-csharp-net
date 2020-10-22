@@ -1,0 +1,14 @@
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/bin/Debug/TwoCaptcha.dll
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/bin/Debug/TwoCaptcha.pdb
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/bin/Debug/System.IO.dll
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/bin/Debug/System.Net.Http.dll
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/bin/Debug/System.Runtime.dll
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/bin/Debug/System.Security.Cryptography.Encoding.dll
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/bin/Debug/System.Security.Cryptography.Primitives.dll
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/obj/Debug/TwoCaptcha.csprojAssemblyReference.cache
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/obj/Debug/TwoCaptcha.csproj.CoreCompileInputs.cache
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/obj/Debug/TwoCaptcha.csproj.CopyComplete
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/obj/Debug/TwoCaptcha.dll
+/mnt/Often/Projects/2captcha-csharp-net/TwoCaptcha/TwoCaptcha/obj/Debug/TwoCaptcha.pdb
